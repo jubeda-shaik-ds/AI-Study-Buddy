@@ -5,7 +5,6 @@ import google.generativeai as genai
 from PIL import Image
 import PyPDF2
 from docx import Document
-import speech_recognition as sr
 import json, os, time
 import re
 
